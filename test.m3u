@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/XJTKGnHj/atnislamic.png" group-title="XXX",Islam Bangla 🇧🇩
-https://4gradgmttgwzdecjq8y5o.ourdvsssvip.com/pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-#https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamtv.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/XJTKGnHj/atnislamic.png" group-title="XXX",Peace TV 🇧🇩
-http://livess.ncare.live/live-orgin/peacetvban.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/XJTKGnHj/atnislamic.png" group-title="XXX",JAMUNA TV SD 🇧🇩
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
-
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/qRJfhGWS/natok.jpg" group-title="OLD ​BANGLA🎬NATOK", Ghotona_Chokre
+https://bn.dfnbd.net/site/download/179.mp4
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/qRJfhGWS/natok.jpg" group-title="OLD ​BANGLA🎬NATOK", Bondhu_Amra_Tinjon
+https://bn.dfnbd.net/site/download/174.mp4
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/qRJfhGWS/natok.jpg" group-title="OLD ​BANGLA🎬NATOK", Sikandar_Box_Ekhon_Birat_Model
+https://bn.dfnbd.net/site/download/418.mp4
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/qRJfhGWS/natok.jpg" group-title="OLD ​BANGLA🎬NATOK", Tin_Bekarer_Kormoshala
+https://bn.dfnbd.net/site/download/213.mp4
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/qRJfhGWS/natok.jpg" group-title="OLD ​BANGLA🎬NATOK", Sublet_Gublet_Full_Episode_2
+https://bn.dfnbd.net/site/download/1069.mp4
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/qRJfhGWS/natok.jpg" group-title="OLD ​BANGLA🎬NATOK", Ural_Prem_2
+https://bn.dfnbd.net/site/download/1068.mp4
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/qRJfhGWS/natok.jpg" group-title="OLD ​BANGLA🎬NATOK", Colors_Of_Love
+https://bn.dfnbd.net/site/download/1058.mp4
