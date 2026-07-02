@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="My Stream" tvg-logo="" group-title="Live", My Stream
+http://10.45.45.254/player.php?stream=80
